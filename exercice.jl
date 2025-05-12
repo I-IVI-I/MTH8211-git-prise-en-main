@@ -1,4 +1,5 @@
 using LinearAlgebra
+using SparseArrays
 
 n = 3
 A = [1.0  2.0  3.0;
